@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Monishka\\OneDrive\\Documents\\Programs\\AJP_Microproject\\ATM_Simulator\\lib\\mysql-connector-java-8.0.26.jar"
+    ]
+}
